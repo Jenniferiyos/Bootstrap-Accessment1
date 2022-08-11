@@ -1,0 +1,65 @@
+.container{
+top: 20%;
+left: 50%;
+transform: translate(-50%, -50%);
+position: absolute;
+margin-top: 20px;
+width: 700px;
+height: 230px;
+}
+
+.ping{
+    text-align: center;
+    font-weight: bold;
+}
+
+.launch{
+    font-size: 45px;
+    font-weight: bold;
+    color: grey;
+    line-height: 4px;
+    text-align: center;
+    
+}
+span{
+    color: black;
+}
+
+.sub{
+    text-align: center;
+    line-height: 1px;
+    border-radius: 10px;
+    margin-bottom: 40px;
+    
+}
+
+.btn1{
+    width: 60%;
+    height: 55px;
+    background-color: white;
+    border-color: lightgray;
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 30px;
+    margin-left: 35px;
+    color: gray;
+
+}
+
+.btn2{
+    width: 25%;
+    height: 55px;
+    border-radius: 30px;
+    background-color: blue;
+    color: white;
+    font-size: 15px;
+    border: none;
+    margin-left: 10px;
+    margin-bottom: 50px;
+}
+
+img{
+    width: 700px;
+    height: 700px;
+    margin-bottom: 30px;
+}
